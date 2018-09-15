@@ -1,0 +1,64 @@
+*{
+  padding: 20px;
+  margin:20px;
+}
+
+body{
+  background-color: #f4f4f4;
+  color: #555555;
+  font: normal 16px Tahoma, Helvetica, sans-serif;
+  margin:0;
+}
+
+.eerste{
+  background-color: grey;
+  color:white;
+  text-align: center;
+}
+
+.eerste h1{
+  font-family: Tahoma;
+  font-weight: 800;
+  font-style: italic;
+  padding: 0px;
+  margin: 0;
+
+}
+
+.tweede{
+  border:1px #ccc solid;
+  padding:10px;
+  border-radius:20px;
+}
+
+.derde{
+  border:1px #ccc solid;
+  padding:20px;
+  border-radius:20px;
+}
+
+.vijfde ul {
+    list-style-type: none;
+  margin: 20px;
+
+}
+
+.vijfde li {
+    float: left;
+    text-indent: 35pt
+}
+
+.vijfde li a {
+    color: black;
+    text-align: center;
+    text-decoration: none;
+}
+
+.vijfde li a:hover {
+    background-color: black;
+    color: grey;
+}
+
+.vierde{
+  text-indent: 50px;
+}
